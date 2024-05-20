@@ -182,6 +182,6 @@
 
 # 🥳 𝐒𝐩𝐞𝐜𝐢𝐚𝐥 𝐓𝐡𝐚𝐧𝐤𝐬 𝐅𝐨𝐫 𝐇𝐄𝐋𝐏 🥳
 
-- [𝐉𝐄𝐄𝐓𝐔](https://telegram.me/JEETU_THAKUR)
-- [𝐉𝐀𝐋𝐋𝐀𝐃](https://telegram.me/JALLAD_PAPA)
-- [𝐓𝐎𝐂𝐒𝐈](https://telegram.me/fridayxd)
+- # [𝐉𝐄𝐄𝐓𝐔](https://telegram.me/JEETU_THAKUR)
+- # [𝐉𝐀𝐋𝐋𝐀𝐃](https://telegram.me/JALLAD_PAPA)
+- # [𝐓𝐎𝐂𝐒𝐈](https://telegram.me/fridayxd)
