@@ -102,8 +102,6 @@
   <a href="/TOOLS/APKEditor.apk">
     <img src="https://img.shields.io/badge/Termux%20Download-Click%20to%20Download-brightgreen?style=for-the-badge&logo=android" alt="Download APK EDITOR" />
   </a>
-  <a href="TOOLS/APK Easy Tool v157-1 Setup (Fix).msi">
-    <img src="https://img.shields.io/badge/APK%20Editor%20Download-Click%20to%20Download-brightgreen?style=for-the-badge&logo=android" alt="Download APK EASY TOOL" />
   </a>
 </p>
 
@@ -130,15 +128,15 @@
 - NOW GO TO THE TELEGRAM BOT AND START THE BOT ENJOY
 ```
 
-## Edit apk
+## Edit app
  - Open Apk editor 
- - select apk
+ - select app
  - choose full edit
  - select decode all files
- - go to assets folder
+ - go to the assets folder
  - open host.json
- - and enter url
- - build apk ,start the bot  Enjoy
+ - and enter URL
+ - build app,start the bot  Enjoy
 
 ## example
 ```bash  
