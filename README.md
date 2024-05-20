@@ -3,7 +3,7 @@
 
 </p>
 <p align="center">
-  <i>A flexible Android RAT integrated with Telegram without port forwarding.</i>
+  <b><i>A flexible Android RAT integrated with Telegram without port forwarding.</i></b>
 </p>
 
 
