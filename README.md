@@ -77,9 +77,11 @@
   </a>
   </p>
 <h2>Requirements</h2>
-<ul>
-  <li><span style="color: #0074D9;">APK EDITOR</span></li>
-  <li><span style="color: #2ECC40;">ANY VPS</span></li>
+<dl>
+  <dt><span style="color: #0074D9;">APK EDITOR</span></dt>
+  <dd>USE FOR EDIT SERVER LINK IN APK</dd>
+  <dt><span style="color: #2ECC40;">ANY VPS</span></dt>
+  <dd>USE FOR HOST SERVER</dd>
   <li>For hosting server code, you can use some free services like:</li>
   <ol>
   <li><a href="https://render.com/" style="color: #B10DC9;">render.com {reccomended}</a></li>
@@ -92,7 +94,7 @@
     <img src="https://img.shields.io/badge/📹%20VIDEO%20TUTORIALS%20AVAILABLE%20HERE-blue?style=for-the-badge" alt="Video Tutorials Available Here" />
   </a>
 </p>
-</ul>
+</dl>
 
 <h2 align="center">Download</h2>
 
