@@ -10,7 +10,7 @@
 
 <h2 align="center">Panel Screenshot</h2>
 <p align="center">
-  <img src="images/PANEL.jpg" alt="Screenshot 1" style="max-width: 100%; height: auto;" />
+  <img src="image/PANEL.jpg" alt="Screenshot 1" style="max-width: 100%; height: auto;" />
 
 </p>
 
