@@ -20,7 +20,7 @@
 - 📳 Device Vibrate
 - ✉️ receive all SMS
 - ✉️ send sms to any number
-- ✉️ Send SMS with target device to all of his/her contacts
+- ✉️ Send SMS with the target device to all of his/her contacts
 - 👤 receive all contacts
 - 📷 capture main and front camera
 - 🎙 capture microphone (with custom duration)
@@ -29,7 +29,7 @@
 - 🗨️ Show Toast
 - 🎧 Play Audio
 - 🤖 Undetectable by antivirus
-- 📋 receive last clipboard text
+- 📋 receive the last clipboard text
 
   ## R8HEXBOT PAID VERSION
 <b><i>Without Permission</i></b>
@@ -39,31 +39,34 @@
 - 📳 Device Vibrate
 - 🗨 Show Toast
 - 🎧 Play Audio
--  📋 receive last clipboard text
+-  📋 receive the last clipboard text
 
 <b><i>With Normal Permission</i></b>
 - ✉️ receive all sms
 - ✉️ send sms to any number
-- ✉️ send sms with target device to all of his/her contacts
-- 👤 recive all contacts
+- ✉️ Send SMS with the target device to all of his/her contacts
+- 👤 receive all contacts
 - 📷 capture main and front camera
 - 🎙 capture microphone (with custom duration)
-- 👤 recive all Call Logs
+- 👤 receive all Call Logs
 - 🔔 notification reader
 - 🛰️ receive device location
-- 🔐 Open any phising page in victim Direct Browsers
-- 📒 Gallery puller (Get all photos available in gallery)
-- 🔔 notification sender (send custom notification that apper on target device with custom click link)
+- 🔐 Open any phishing page in victim Direct Browsers
+- 📒 Gallery puller (Get all photos available in the gallery)
+- 🔔 notification sender (send custom notification that appears on the target device with custom click link)
   
 <b><i>With Accessibility Permission</i></b>
-- 🤖 Auto permisson  
-- 📁 PowerFull file manager
 - 🔐 Keylogger
-- 🖥️ Screenshot (get screenshot from your victim device)
-- 🗨️ spam message in all contacts after installation which you will set in apk
+- 🖥️ Screenshot (get a screenshot from your victim device)
+- 🤖 Auto permission(on Order)
+### It can be added In Any app Sources Code
+- 📁 PowerFull file manager
+- 🤖 Impossible To Hack Bot
+- 🌐 Host Support On Glitch/Render/Heroku/Replit
+
 
 ## Common For All Paid/Free
-- 🔴 Real time
+- 🔴 Real-time Details
 - 🌐 custom web 
 - 🤖 Play Protection Bypass
 - 🤖and more ......
