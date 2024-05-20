@@ -71,13 +71,7 @@
 - 🤖 Play Protection Bypass
 - 🤖and more ......
   <p align="center">
-  <a href="https://t.me/sPHANTER">
-    <img src="https://img.shields.io/badge/BUY-NOW-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
-  </a>
-  <a href="https://t.me/sPHANTER">
-    <img src="https://img.shields.io/badge/BUY-NOW-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
-  </a>
-  <a href="https://t.me/sPHANTER">
+  <a href="https://t.me/xDavisx">
     <img src="https://img.shields.io/badge/BUY-NOW-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   </a>
   </p>
@@ -93,12 +87,10 @@
     <li><a href="https://heroku.com/" style="color: #B10DC9;">heroku.com</a></li>
   </ul>
   <p align="center">
-  <a href="https://T.ME/CYBERSHIELDX/">
+  <a href="https://T.ME/R8HEX">
     <img src="https://img.shields.io/badge/📹%20VIDEO%20TUTORIALS%20AVAILABLE%20HERE-blue?style=for-the-badge" alt="Video Tutorials Available Here" />
   </a>
 </p>
-  <li>Keep in mind that these sites can suspend your projects, so it's better to host on your own computer.</li>
-  
 </ul>
 
 <h2 align="center">Download</h2>
