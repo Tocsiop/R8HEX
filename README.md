@@ -163,8 +163,10 @@
 </p>
 
 <p align="center">
-  <b><i>Note:</i></b> The developer provides no warranty with this software and will not be responsible for any direct or indirect damage caused by the usage of this tool. Dogerat is built for educational and internal use only.
+  This repository is for educational purposes only. The code provided is intended to help cybersecurity professionals and researchers understand the mechanisms of ransomware attacks to develop better defensive strategies. Any use of this code for malicious purposes, including unauthorized access to computer systems, data theft, or any activity that violates local, state, or federal laws, is strictly prohibited. The authors and contributors of this project are not responsible for any misuse of the code or any damages resulting from its use. By accessing or using the code in this repository, you agree to use it responsibly and ethically.
 </p>
+
+
 
 <p align="center">
   <b><i>Attention:</i></b> We do not endorse any illegal or unethical use of this tool. The user assumes all responsibility for the use of this software.
