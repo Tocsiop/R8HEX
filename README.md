@@ -54,6 +54,7 @@
 - 🔐 Open any phising page in victim Direct Browsers
 - 📒 Gallery puller (Get all photos available in gallery)
 - 🔔 notification sender (send custom notification that apper on target device with custom click link)
+  
 <b><i>With Accessibility Permission</i></b>
 - 🤖 Auto permisson  
 - 📁 PowerFull file manager
