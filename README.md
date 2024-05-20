@@ -8,13 +8,13 @@
 
 
 
-<h2 align="center">Panel Screenshot</h2>
+<h2 align="center">𝐏𝐀𝐍𝐍𝐄𝐋 𝐒𝐂𝐑𝐄𝐄𝐍𝐒𝐇𝐎𝐓𝐒</h2>
 <p align="center">
   <img src="image/PANEL.jpg" alt="Screenshot 1" style="max-width: 100%; height: auto;" />
 
 </p>
 
-# Free Features
+# 𝐅𝐫𝐞𝐞 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬
 
 - 🔦 Torch On/Off
 - 📳 Device Vibrate
@@ -31,7 +31,7 @@
 - 🤖 Undetectable by antivirus
 - 📋 receive the last clipboard text
 
-  ## R8HEXBOT PAID VERSION
+  ## 𝐑𝟖𝐇𝐄𝐗𝐁𝐎𝐓 𝐏𝐀𝐈𝐃 𝐕𝐄𝐑𝐒𝐈𝐎𝐍
 <b><i>Without Permission</i></b>
 - 🔦 Torch On/Off
 - 📱 change Wallpaper
@@ -66,7 +66,7 @@
 #### 🔴 Host Support On Glitch/Render/Heroku/Replit
 
 
-## Common For All Paid/Free
+## 𝐂𝐨𝐦𝐦𝐨𝐧 𝐅𝐨𝐫 𝐀𝐥𝐥 𝐏𝐚𝐢𝐝/𝐅𝐫𝐞𝐞
 - 🔴 Real-time Details
 - 🌐 custom web 
 - 🤖 Play Protection Bypass
@@ -76,7 +76,7 @@
     <img src="https://img.shields.io/badge/BUY-NOW-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   </a>
   </p>
-<h2>Requirements</h2>
+<h2>𝐑𝐞𝐪𝐮𝐢𝐫𝐞𝐦𝐞𝐧𝐭𝐬</h2>
 <dl>
   <dt><span style="color: #0074D9;">APK EDITOR</span></dt>
   <dd>USE FOR EDIT SERVER LINK IN APK</dd>
@@ -106,7 +106,7 @@
 </p>
 
 
-## How to host server in RENDER.COM
+## 𝐇𝐨𝐰 𝐭𝐨 𝐡𝐨𝐬𝐭 𝐬𝐞𝐫𝐯𝐞𝐫 𝐢𝐧 𝐑𝐄𝐍𝐃𝐄𝐑.𝐂𝐎𝐌
 <p>FOLLOW THWSW STEPS:</p>
 
 
@@ -128,7 +128,7 @@
 - NOW GO TO THE TELEGRAM BOT AND START THE BOT ENJOY
 ```
 
-## Edit app
+## 𝐄𝐝𝐢𝐭 𝐚𝐩𝐩
  - Open Apk editor 
  - select app
  - choose full edit
@@ -169,11 +169,11 @@
 
 
 <p align="center">
-  <b><i>Attention:</i></b> We do not endorse any illegal or unethical use of this tool. The user assumes all responsibility for the use of this software.
+  <b><i>𝐀𝐭𝐭𝐞𝐧𝐭𝐢𝐨𝐧:</i></b> We do not endorse any illegal or unethical use of this tool. The user assumes all responsibility for the use of this software.
 </p>
 
 <p align="center">
-  <b><i>Important:</i></b> To prevent any fraudulent activity, please ensure that the Instagram username is <a href="https://instagram.com/CyberShieldX"><code>@R8HEX</code></a> and the Telegram handle is <a href="https://t.me/CyberShieldX"><code>@R8HEX</code></a>. Beware of scams and phishing attempts that use similar usernames or handles.
+  <b><i>𝐈𝐦𝐩𝐨𝐫𝐭𝐚𝐧𝐭:</i></b> To prevent any fraudulent activity, please ensure that the Instagram username is <a href="https://instagram.com/CyberShieldX"><code>@R8HEX</code></a> and the Telegram handle is <a href="https://t.me/CyberShieldX"><code>@R8HEX</code></a>. Beware of scams and phishing attempts that use similar usernames or handles.
 </p>
 
 <p align="center">
