@@ -179,3 +179,8 @@
 <p align="center">
   <b><i>Thank you for using R8HEX - we hope it serves its intended purpose and helps you achieve your goals!</i></b>
 </p>
+### 🥳 𝐒𝐩𝐞𝐜𝐢𝐚𝐥 𝐓𝐡𝐚𝐧𝐤𝐬 𝐅𝐨𝐫 𝐓𝐡𝐞𝐢𝐫 𝐒𝐨𝐮𝐫𝐜𝐞𝐬 🥳
+
+- [𝑻𝒆𝒂𝒎𝒀𝒖𝒌𝒌𝒊](https://github.com/teamyukki)
+- [𝑷𝒚𝒓𝒐𝒈𝒓𝒂𝒎](https://github.com/pyrogram/pyrogram)
+- [𝑷𝒚𝑻𝒈𝑪𝒂𝒍𝒍𝒔](https://github.com/pytgcalls/pytgcalls)
