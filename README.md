@@ -146,7 +146,7 @@
 
 
 
-<h2 align="center">🔗 Contact and Social Media Accounts</h2>
+<h2 align="center">🔗 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐚𝐧𝐝 𝐒𝐨𝐜𝐢𝐚𝐥 𝐌𝐞𝐝𝐢𝐚 𝐀𝐜𝐜𝐨𝐮𝐧𝐭𝐬</h2>
 
 <p align="center">
   <a href="https://t.me/R8HEX">
