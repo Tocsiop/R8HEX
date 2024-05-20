@@ -176,34 +176,3 @@
 <p align="center">
   <b><i>Thank you for using R8HEX - we hope it serves its intended purpose and helps you achieve your goals!</i></b>
 </p>
-
-
-
-
-
-<p align="center">
-<h1 align="center">Sponsorship</h1>
-
-<p align="center">If you find my work valuable, you can show your support by sponsoring me. 
-  Your contribution will help me maintain and improve my projects and encourage me to create more useful content.</p>
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/shivayadav"><img src="https://img.shields.io/badge/-Buy%20me%20a%20coffee-orange?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy me a coffee"></a>
-</p>
-
-
-
-
-
-<p align="center">Thank you to the following people for their support:</p>
-
-<div align="center">
-  <a href="https://github.com/shivaya-dav/DogeRat/stargazers">
-    <img src="https://reporoster.com/stars/dark/shivaya-dav/DogeRat" alt="Stargazers" title="Stargazers" width="400" height="auto">
-  </a>
-  
-  -------------------------
-  <a href="https://github.com/shivaya-dav/DogeRat/network/members">
-    <img src="https://reporoster.com/forks/dark/shivaya-dav/DogeRat" alt="Forkers" title="Forkers" width="400" height="auto">
-  </a>
-</div>
