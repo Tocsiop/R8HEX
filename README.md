@@ -119,12 +119,12 @@
  - NOW CLICK ON NEW WEB SERVICE/SELECT FREE  TRIAL/GIVE ANY RANDOM NAME OF YOUR WEB SERVICE
 - NOW YOU WILL SEE HERE YOUR REPO WHICH YOU CREATED 
 - CLCIK ON THAT IT WILL START DEPLOYING IGNORE IT AND COPY THE URL OF YOUR WEB SERVICE
-- NOW COMEBACK TO YOUR GITHUB REPO AND EDIT DATA.JSON
-- ENTER YOUR BOT TOKEN,CHAT ID URL WHICH YOU COPIED FROM RENDER.COM
+- NOW COME TO YOUR GITHUB REPO AND EDIT DATA.JSON
+- ENTER YOUR BOT TOKEN, AND CHAT ID URL WHICH YOU COPIED FROM RENDER.COM
 - SAVE DATA.JSON
-- GO BACK TO RENDER.COM AND OPEN YOUR PROJECT AND CLICK ON DEPLOY/THEN DEPLOY LATEST COMMITS
-- IT WILL TAKE FEW SECONDS ONCE YOU WILL SEE IN TERMINAL THAT YOUR SERVICE IS LIVE
-- NOW GO TO TELEGRAM BOT AND START THE BOT ENJOYYYYYY
+- GO BACK TO RENDER.COM OPEN YOUR PROJECT AND CLICK ON DEPLOY/THEN DEPLOY THE LATEST COMMITS
+- IT WILL TAKE A FEW SECONDS ONCE YOU SEE IN THE TERMINAL THAT YOUR SERVICE IS LIVE
+- NOW GO TO THE TELEGRAM BOT AND START THE BOT ENJOY
 ```
 
 ## Edit apk
@@ -145,17 +145,16 @@
 
 
 
-
 <h2 align="center">🔗 Contact and Social Media Accounts</h2>
 
 <p align="center">
-  <a href="https://t.me/CyberShieldX">
+  <a href="https://t.me/R8HEX">
     <img src="https://img.shields.io/badge/CONTACT-TELEGRAM-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   </a>
-  <a href="https://instagram.com/CyberShieldX">
+  <a href="https://instagram.com/R8HEX">
     <img src="https://img.shields.io/badge/CONTACT-INSTAGRAM-red?style=for-the-badge&logo=instagram" alt="Instagram Badge"/>
   </a>
-  <a href="https://twitter.com/CyberShieldX">
+  <a href="https://twitter.com/R8HEX">
     <img src="https://img.shields.io/badge/CONTACT-TWITTER-blue?style=for-the-badge&logo=twitter" alt="Twitter Badge"/>
   </a>
   <a href="https://www.youtube.com/@sphanter/about">
@@ -177,7 +176,7 @@
 </p>
 
 <p align="center">
-  <b><i>Important:</i></b> To prevent any fraudulent activity, please ensure that the Instagram username is <a href="https://instagram.com/CyberShieldX"><code>@CYBERSHIELDX</code></a> and the Telegram handle is <a href="https://t.me/CyberShieldX"><code>@CYBERSHIELDX</code></a>. Beware of scams and phishing attempts that use similar usernames or handles.
+  <b><i>Important:</i></b> To prevent any fraudulent activity, please ensure that the Instagram username is <a href="https://instagram.com/CyberShieldX"><code>@R8HEX</code></a> and the Telegram handle is <a href="https://t.me/CyberShieldX"><code>@R8HEX</code></a>. Beware of scams and phishing attempts that use similar usernames or handles.
 </p>
 
 <p align="center">
@@ -192,7 +191,7 @@
 <h1 align="center">Sponsorship</h1>
 
 <p align="center">If you find my work valuable, you can show your support by sponsoring me. 
-  Your contribution will help me maintain and improve my projects, and it will encourage me to create more useful content.</p>
+  Your contribution will help me maintain and improve my projects and encourage me to create more useful content.</p>
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/shivayadav"><img src="https://img.shields.io/badge/-Buy%20me%20a%20coffee-orange?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy me a coffee"></a>
