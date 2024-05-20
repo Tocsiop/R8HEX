@@ -80,12 +80,12 @@
   <li><span style="color: #0074D9;">APK EDITOR</span></li>
   <li><span style="color: #2ECC40;">ANY VPS</span></li>
   <li>For hosting server code, you can use some free services like:</li>
-  <ul>
+  <ol>
   <li><a href="https://render.com/" style="color: #B10DC9;">render.com {reccomended}</a></li>
     <li><a href="https://replit.com/" style="color: #FF4136;">replit.com</a></li>
     <li><a href="https://glitch.com/" style="color: #FFDC00;">glitch.com</a></li>
     <li><a href="https://heroku.com/" style="color: #B10DC9;">heroku.com</a></li>
-  </ul>
+  </ol>
   <p align="center">
   <a href="https://T.ME/R8HEX">
     <img src="https://img.shields.io/badge/📹%20VIDEO%20TUTORIALS%20AVAILABLE%20HERE-blue?style=for-the-badge" alt="Video Tutorials Available Here" />
