@@ -163,7 +163,7 @@
 </p>
 
 <p align="center">
-  This repository is for educational purposes only. The code provided is intended to help cybersecurity professionals and researchers understand the mechanisms of ransomware attacks to develop better defensive strategies. Any use of this code for malicious purposes, including unauthorized access to computer systems, data theft, or any activity that violates local, state, or federal laws, is strictly prohibited. The authors and contributors of this project are not responsible for any misuse of the code or any damages resulting from its use. By accessing or using the code in this repository, you agree to use it responsibly and ethically.
+  <i>This repository is for educational purposes only. The code provided is intended to help cybersecurity professionals and researchers understand the mechanisms of ransomware attacks to develop better defensive strategies. Any use of this code for malicious purposes, including unauthorized access to computer systems, data theft, or any activity that violates local, state, or federal laws, is strictly prohibited. The authors and contributors of this project are not responsible for any misuse of the code or any damages resulting from its use. By accessing or using the code in this repository, you agree to use it responsibly and ethically.</i>
 </p>
 
 
