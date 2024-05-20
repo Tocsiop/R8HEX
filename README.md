@@ -62,6 +62,7 @@
 - 📁 PowerFull file manager
 #### It can be added In Any app Sources Code
 #### Impossible To Hack Bot
+#### You Can Add 2-3 Telegram Bot For Received Data
 #### Host Support On Glitch/Render/Heroku/Replit
 
 
