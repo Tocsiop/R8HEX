@@ -59,10 +59,10 @@
 - 🔐 Keylogger
 - 🖥️ Screenshot (get a screenshot from your victim device)
 - 🤖 Auto permission(on Order)
-### It can be added In Any app Sources Code
 - 📁 PowerFull file manager
-- 🤖 Impossible To Hack Bot
-- 🌐 Host Support On Glitch/Render/Heroku/Replit
+#### It can be added In Any app Sources Code
+#### Impossible To Hack Bot
+#### Host Support On Glitch/Render/Heroku/Replit
 
 
 ## Common For All Paid/Free
