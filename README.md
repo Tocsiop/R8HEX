@@ -13,16 +13,18 @@
   <img src="images/4.jpg" alt="Screenshot 1" style="max-width: 100%; height: auto;" />
 
 </p>
+
 # Free Features
+
 - 🔦 Torch On/Off
 - 📳 Device Vibrate
-- ✉️ receive all sms
+- ✉️ receive all SMS
 - ✉️ send sms to any number
-- ✉️ send sms with target device to all of his/her contacts
-- 👤 recive all contacts
+- ✉️ Send SMS with target device to all of his/her contacts
+- 👤 receive all contacts
 - 📷 capture main and front camera
 - 🎙 capture microphone (with custom duration)
-- 👤 recive all Call Logs
+- 👤 receive all Call Logs
 - 🔔 notification reader
 - 🗨️ Show Toast
 - 🎧 Play Audio
