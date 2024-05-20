@@ -2,7 +2,6 @@
   <img src="image/SS.png" alt="logo" style="max-width: auto%; height: auto;" />
 
 </p>
- # A flexible Android RAT integrated with Telegram without port forwarding
 <p align="center">
   <b><i>A flexible Android RAT integrated with Telegram without port forwarding.</i></b>
 </p>
