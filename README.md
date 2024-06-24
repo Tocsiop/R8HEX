@@ -183,5 +183,4 @@
 
 # 🥳 𝐒𝐩𝐞𝐜𝐢𝐚𝐥 𝐓𝐡𝐚𝐧𝐤𝐬 𝐅𝐨𝐫 𝐇𝐄𝐋𝐏 🥳
 
-- ### [𝐀𝐍𝐊𝐈𝐓 𝐒𝐈𝐍𝐆𝐇](https://telegram.me/JALLAD_PAPA)
 - ### [𝐀𝐍𝐊𝐈𝐓 𝐘𝐀𝐃𝐀𝐕](https://telegram.me/fridayxd)
