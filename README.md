@@ -153,7 +153,7 @@
   <a href="https://t.me/R8HEX">
     <img src="https://img.shields.io/badge/CONTACT-TELEGRAM-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   </a>
-  <a href="https://www.youtube.com/@sphanter/about">
+  <a href="https://www.youtube.com/@R8HEXTUTORIAL">
     <img src="https://img.shields.io/badge/CONTACT-YOUTUBE-red?style=for-the-badge&logo=youtube" alt="Youtube Badge"/>
   </a>
 </p>
