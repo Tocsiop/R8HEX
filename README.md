@@ -91,7 +91,7 @@
     <li><a href="https://heroku.com/" style="color: #B10DC9;">heroku.com</a></li>
   </ol>
   <p align="center">
-  <a href="https://T.ME/R8HEX">
+  <a href="https://youtu.be/sjzaZl1a8mY?si=ehKFARP-7jNQtZUX">
     <img src="https://img.shields.io/badge/📹%20VIDEO%20TUTORIALS%20AVAILABLE%20HERE-blue?style=for-the-badge" alt="Video Tutorials Available Here" />
   </a>
 </p>
