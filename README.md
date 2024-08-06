@@ -73,7 +73,7 @@
 - 🤖 Play Protection Bypass
 - 🤖and more ......
   <p align="center">
-  <a href="https://t.me/A1BUG">
+  <a href="https://t.me/fridayxd">
     <img src="https://img.shields.io/badge/BUY-NOW-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   </a>
   </p>
