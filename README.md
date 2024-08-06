@@ -174,7 +174,7 @@
 </p>
 
 <p align="center">
-  <b><i>𝐈𝐦𝐩𝐨𝐫𝐭𝐚𝐧𝐭:</i></b> To prevent any fraudulent activity, please ensure that the Instagram username is <a href="https://instagram.com/CyberShieldX"><code>@R8HEX</code></a> and the Telegram handle is <a href="https://t.me/CyberShieldX"><code>@R8HEX</code></a>. Beware of scams and phishing attempts that use similar usernames or handles.
+  <b><i>𝐈𝐦𝐩𝐨𝐫𝐭𝐚𝐧𝐭:</i></b> To prevent any fraudulent activity, please ensure that the Instagram username is <a href="https://instagram.com/CyberShieldX"><code>@R8HEX</code></a> and the Telegram handle is <a href="https://t.me/r8hex"><code>@R8HEX</code></a>. Beware of scams and phishing attempts that use similar usernames or handles.
 </p>
 
 <p align="center">
