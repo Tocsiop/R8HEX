@@ -11,7 +11,7 @@
 
 - ### [𝗣𝗔𝗜𝗗 𝗩𝗘𝗥𝗦𝗜𝗢𝗡](https://github.com/Tocsiop/R8HEX/blob/main/Readmds/Paid.md)
 
-- ### [𝗛𝗜𝗪 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬 𝗙𝗥𝗘𝗘 𝗩𝗘𝗥𝗦𝗜𝗢𝗡](https://github.com/Tocsiop/R8HEX/blob/main/Readmds/Deployed.md)
+- ### [𝗛𝗢𝗪 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬 𝗙𝗥𝗘𝗘 𝗩𝗘𝗥𝗦𝗜𝗢𝗡](https://github.com/Tocsiop/R8HEX/blob/main/Readmds/Deployed.md)
 
 
 # 𝗝𝗢𝗜𝗡 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 
