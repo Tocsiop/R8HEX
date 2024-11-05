@@ -13,6 +13,8 @@
 
 - ### [𝗛𝗢𝗪 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬 𝗙𝗥𝗘𝗘 𝗩𝗘𝗥𝗦𝗜𝗢𝗡](https://github.com/Tocsiop/R8HEX/blob/main/Readmds/Deployed.md)
 
+<a href="https://github.com/Tocsiop/R8HEX/archive/refs/tags/V1.0.0-R8HEX.zip">𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗 𝗙𝗥𝗘𝗘 𝗙𝗜𝗟𝗘𝗦</a>
+
 
 # 𝗝𝗢𝗜𝗡 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 
 
