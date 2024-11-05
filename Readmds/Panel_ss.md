@@ -7,3 +7,7 @@
   <img src="image/PANEL.jpg" alt="Screenshot 1" style="max-width: 100%; height: auto;" />
 
 </p>
+
+<a href="https://t.me/Fridayxd">
+    <img src="https://img.shields.io/badge/CONTACT-TELEGRAM-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
+  </a>
