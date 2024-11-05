@@ -3,6 +3,7 @@
 </p>
 <p align="center">
   <b><i>A flexible Android RAT integrated with Telegram without port forwarding.</i></b>
+  <b><i>You can hack Android Phone & Tablet.Check All Features Click On Links.</i></b>
 </p>
 
 - ### [𝗣𝗔𝗡𝗘𝗟 𝗦𝗖𝗥𝗘𝗘𝗡𝗦𝗛𝗢𝗧](https://github.com/Tocsiop/R8HEX/blob/main/Readmds/Panel_ss.md)
