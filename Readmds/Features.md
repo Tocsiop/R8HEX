@@ -15,10 +15,9 @@
 - 🤖 Undetectable by antivirus
 - 📋 receive the last clipboard text
 
-<h1>These All Are Free Features Of R8hex Rat.If You Want More Features Then Contact On Telegram</h1>
+<p1>These All Are Free Features Of R8hex Rat.If You Want More Features Then Contact On Telegram</p1>
 
-
-<a href="[https://github.com/Tocsiop/R8HEX/blob/main/Readmds/Paid.md]">𝐏𝐚𝐢𝐝 𝐕𝐞𝐫𝐬𝐢𝐨𝐧 𝐎𝐟 𝐑8𝐇𝐞𝐱</a>
+<a href="https://t.me/R8HEX">𝗣𝗔𝗜𝗗 𝗩𝗘𝗥𝗦𝗜𝗢𝗡 𝗢𝗙 𝗥8𝗛𝗘𝗫 𝗥𝗔𝗧</a>
 
 <a href="https://t.me/FRIDAYXD">
     <img src="https://img.shields.io/badge/CONTACT-TELEGRAM-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
