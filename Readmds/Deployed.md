@@ -1,4 +1,10 @@
-## Free version deployment
+# Free version deployment
+
+# Download All Files From Here 👇👇
+
+<a href="https://github.com/Tocsiop/R8HEX/archive/refs/tags/V1.0.0-R8HEX.zip">𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗 𝗙𝗥𝗘𝗘 𝗙𝗜𝗟𝗘𝗦</a>
+
+
 
 ## 𝐇𝐨𝐰 𝐭𝐨 𝐡𝐨𝐬𝐭 𝐬𝐞𝐫𝐯𝐞𝐫 𝐢𝐧 𝐑𝐄𝐍𝐃𝐄𝐑.𝐂𝐎𝐌
 <p>FOLLOW THWSW STEPS:</p>
