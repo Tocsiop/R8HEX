@@ -4,7 +4,7 @@
 
 <h2 align="center">𝐏𝐀𝐍𝐍𝐄𝐋 𝐒𝐂𝐑𝐄𝐄𝐍𝐒𝐇𝐎𝐓𝐒</h2>
 <p align="center">
-  <img src="image/PANEL.jpg" alt="Screenshot 1" style="max-width: 100%; height: auto;" />
+  <img src="https://github.com/Tocsiop/R8HEX/blob/main/image/PANEL.jpg" alt="Screenshot 1" style="max-width: 100%; height: auto;" />
 
 </p>
 
