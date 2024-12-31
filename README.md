@@ -9,7 +9,7 @@
 
 - ### [𝗣𝗔𝗡𝗘𝗟 𝗦𝗖𝗥𝗘𝗘𝗡𝗦𝗛𝗢𝗧](https://github.com/Tocsiop/R8HEX/blob/main/Readmds/Panel_ss.md)
 
-- ### [𝗙𝗥𝗘𝗘 𝗩𝗘𝗥𝗦𝗜𝗢𝗡](https://github.com/Tocsiop/R8HEX/blob/main/Readmds/Features.md)
+- ### [𝗙𝗥𝗘𝗘 𝗩𝗘𝗥𝗦𝗜𝗢𝗡 v1.2.0](https://github.com/Tocsiop/R8HEX/blob/main/Readmds/Features.md)
 
 - ### [𝗣𝗔𝗜𝗗 𝗩𝗘𝗥𝗦𝗜𝗢𝗡](https://github.com/Tocsiop/R8HEX/blob/main/Readmds/Paid.md)
 
