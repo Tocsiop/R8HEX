@@ -1,9 +1,9 @@
-# 𝐅𝐫𝐞𝐞 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬
+# V.1.2 𝐅𝐫𝐞𝐞 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬
 
 - 🔦 Torch On/Off
 - 📳 Device Vibrate
 - ✉️ receive all SMS
-- ✉️ send sms to any number
+- ✉️ send sms to any number(FIXED)
 - ✉️ Send SMS with the target device to all of his/her contacts
 - 👤 receive all contacts
 - 📷 capture main and front camera
@@ -12,8 +12,11 @@
 - 🔔 notification reader
 - 🗨️ Show Toast
 - 🎧 Play Audio
-- 🤖 Undetectable by antivirus
+- 🤖 Change Wallpaper (free)
 - 📋 receive the last clipboard text
+- 📂 Get All File & Delete Of Device (fixed)
+
+- 📌 Most Attractive And Premium Looks(New)
 
 <p1>These All Are Free Features Of R8hex Rat.If You Want More Features Then Contact On Telegram</p1>
 
