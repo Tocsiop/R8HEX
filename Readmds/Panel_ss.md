@@ -10,7 +10,7 @@
 
 # Download All Files From Here 👇👇
 
-<a href="https://github.com/Tocsiop/R8HEX/archive/refs/tags/V1.0.0-R8HEX.zip">𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗 𝗙𝗥𝗘𝗘 𝗙𝗜𝗟𝗘𝗦</a>
+<a href="https://github.com/Tocsiop/R8HEX/archive/refs/tags/V1.2.0-R8HEX.zip">𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗 𝗙𝗥𝗘𝗘 𝗙𝗜𝗟𝗘𝗦</a>
 
 
 
