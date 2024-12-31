@@ -2,7 +2,7 @@
 
 # Download All Files From Here 👇👇
 
-<a href="https://github.com/Tocsiop/R8HEX/archive/refs/tags/V1.0.0-R8HEX.zip">𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗 𝗙𝗥𝗘𝗘 𝗙𝗜𝗟𝗘𝗦</a>
+<a href="https://github.com/Tocsiop/R8HEX/archive/refs/tags/V1.2.0-R8HEX.zip">𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗 𝗙𝗥𝗘𝗘 𝗙𝗜𝗟𝗘𝗦</a>
 
 
 
@@ -60,7 +60,7 @@
 
 # Download All Files From Here 👇👇
 
-<a href="https://github.com/Tocsiop/R8HEX/archive/refs/tags/V1.0.0-R8HEX.zip">𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗 𝗙𝗥𝗘𝗘 𝗙𝗜𝗟𝗘𝗦</a>
+<a href="https://github.com/Tocsiop/R8HEX/archive/refs/tags/V1.2.0-R8HEX.zip">𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗 𝗙𝗥𝗘𝗘 𝗙𝗜𝗟𝗘𝗦</a>
 
 
 <h2 align="center">🔗 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐚𝐧𝐝 𝐒𝐨𝐜𝐢𝐚𝐥 𝐌𝐞𝐝𝐢𝐚 𝐀𝐜𝐜𝐨𝐮𝐧𝐭𝐬</h2>
