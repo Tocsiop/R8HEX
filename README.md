@@ -1,4 +1,13 @@
 <p align="center">
+  <img src="https://envs.sh/NU9.png" alt="Important Disclaimer"/>
+</p>
+<p align="center">
+  This software/tool is strictly for educational and research purposes only.
+
+The intention behind this project is to help cybersecurity professionals, students, and researchers understand how malware, remote access tools, and ransomware operate, enabling them to develop better defense mechanisms against such threats.
+</p>
+
+<p align="center">
   <img src="image/SS.png" alt="logo" style="max-width: auto%; height: auto;" />
 </p>
 <p align="center">
