@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://envs.sh/NU9.png" alt="Important Disclaimer" style="width: 80%; max-width: 90px; height: 90px;" />
+  <img src="image/NU9.png" alt="Important Disclaimer" style="width: 80%; max-width: 90px; height: 90px;" />
 </p>
 
 <p align="center">
