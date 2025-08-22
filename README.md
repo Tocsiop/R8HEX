@@ -41,7 +41,7 @@
 
 ---
 
-## ⚖️ Free vs Paid Feature Comparison
+## ⚖️ [Free](https://github.com/Tocsiop/R8HEX/blob/main/Readmds/Features.md) vs [Paid](https://github.com/Tocsiop/R8HEX/blob/main/Readmds/Paid.md) Feature Comparison
 
 | Feature / Module                                | Free ✅ | Paid 🚀 |
 |-------------------------------------------------|---------|---------|
