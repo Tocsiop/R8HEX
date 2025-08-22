@@ -84,7 +84,7 @@
 ---
 
 ## ⬇️ Download
-- [📂 Download Free Version v1.2.0](https://github.com/Tocsiop/R8HEX/archive/refs/tags/V1.2.0-R8HEX.zip)
+- [📂 Download Free Version](https://github.com/Tocsiop/R8HEX/archive/refs/tags/1.0.0.zip)
 
 ---
 
