@@ -1,12 +1,11 @@
-# 🚀 R8HEX RAT – V1.2 (Free Release)
+# 🚀 R8HEX RAT – (Free Release)
 
 ✅ This is the **FREE Version** of R8HEX RAT.  
 It contains a set of **basic but powerful features** to give you a taste of what R8HEX can do.  
 ⚠️ For **Full Power + Advanced Features**, check the [PAID VERSION](https://t.me/R8HEX).
 
----
-
-# 🆓 Free Features (V1.2)
+--
+# 🆓 Free Features
 
 - 🔦 Torch On/Off  
 - 📳 Device Vibrate  
@@ -26,7 +25,7 @@ It contains a set of **basic but powerful features** to give you a taste of what
 
 ---
 
-# ⭐ What's New in V1.2
+# ⭐ What's New in version
 - 📌 **Premium-Look Interface** (Even in Free)  
 - 🚀 Improved Speed & Stability  
 - 🛠 Bug Fixes (SMS + File Manager)  
