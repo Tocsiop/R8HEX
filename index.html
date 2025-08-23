@@ -1,0 +1,217 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>R8HEX Updates — Telegram Clone</title>
+  <style>
+    :root{
+      --tg-blue:#5682a3;
+      --tg-green1:#c0e4a1;
+      --tg-green2:#e7f3b0;
+      --bubble:#ffffff;
+      --text:#0e1621;
+      --muted:#707e8c;
+      --link:#3390ec;
+      --chip:#3a6f2d;
+    }
+    *{box-sizing:border-box}
+    body{margin:0; display:flex; justify-content:center; background:#e9eef2; font-family:system-ui,-apple-system,"Segoe UI",Roboto,Ubuntu,"Helvetica Neue",Arial}
+
+    .phone{width:420px; max-width:100vw; height:100vh; display:flex; flex-direction:column; border:1px solid #d8dee4; background:#fff;}
+
+    .header{flex:0 0 auto; display:flex; align-items:center; gap:12px; padding:10px 12px; background:var(--tg-blue); color:#fff; position:sticky; top:0; z-index:3;}
+    .icon{width:22px;height:22px;display:grid;place-items:center;opacity:.95}
+    .avatar{width:36px;height:36px;border-radius:50%;background:#000;display:grid;place-items:center;color:#fff;font-weight:700;font-size:12px;letter-spacing:.5px}
+    .head-meta{line-height:1.1}
+    .title{font-weight:700}
+    .subs{font-size:12px;opacity:.85}
+    .head-actions{margin-left:auto; display:flex; gap:14px; align-items:center}
+
+    .chat{
+      position:relative; flex:1 1 auto; overflow-y:auto; padding:14px 10px 50px;
+      background:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='240' height='240' viewBox='0 0 120 120'%3E%3Cg fill='none' stroke='%2388a77a' stroke-width='1' opacity='0.35'%3E%3Cpath d='M18 22c4-6 14-6 18 0 4 6-2 14-9 14S14 28 18 22z'/%3E%3Ccircle cx='84' cy='30' r='8'/%3E%3Cpath d='M12 84c8-8 20-8 28 0M92 86l14 10M92 106l14-10'/%3E%3Cpath d='M64 82c0 6 10 6 10 0s-10-6-10 0z'/%3E%3Cpath d='M48 36l10-6 10 6-10 6z'/%3E%3Cpath d='M20 112l6-10 6 10'/%3E%3C/g%3E%3C/svg%3E") repeat,
+        linear-gradient(180deg,var(--tg-green1),var(--tg-green2));
+      background-size:auto, 100% 100%; background-attachment:local;
+    }
+
+    .date{display:block; width:max-content; margin:8px auto; padding:4px 12px; border-radius:999px; background:rgba(58,111,45,.85); color:#fff; font-size:12px; font-weight:600}
+
+    .bubble{background:var(--bubble); border:1px solid #e3e7ed; border-radius:14px; padding:12px 12px 8px; margin:10px 8px; max-width:calc(100% - 16px); box-shadow:0 2px 4px rgba(0,0,0,.04);}
+    .bubble .from{color:#e18a00; font-weight:700; font-size:13px; margin-bottom:4px}
+    .bubble p{margin:10px 0; color:var(--text); font-size:15px; line-height:1.55}
+    .bubble a{color:var(--link); text-decoration:none}
+    .bubble a:hover{text-decoration:underline}
+    .meta{display:flex; align-items:center; gap:10px; color:var(--muted); font-size:12px; margin-top:6px}
+
+    .support{margin:4px 8px 12px}
+    .support img{width:100%; border-radius:10px; display:block}
+
+    /* Reactions */
+    .reactions{display:flex; gap:10px; margin-top:6px; font-size:14px;}
+    .reaction{cursor:pointer; user-select:none; padding:2px 8px; border-radius:12px; background:#f1f3f5; display:flex; align-items:center; gap:4px;}
+    .reaction:hover{background:#e1e4e8;}
+    .reaction span{font-size:13px;}
+    
+    /* Footer (muted info only) */
+    /* Footer (fixed muted info) */
+.footer{
+  position: fixed;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 420px;           /* phone width ke equal */
+  max-width: 100vw;
+  background:#f6f7f8;
+  border-top:1px solid #e1e4e8;
+  padding:10px;
+  text-align:center;
+  color:var(--muted);
+  font-size:13px;
+  z-index:5;
+}
+.telegram-banner {
+    display: inline-block;             /* chhota size, content ke hisaab */
+    background: linear-gradient(90deg, #f6a623, #f5d547); /* yellow-orange gradient */
+    color: #000;                       /* text color */
+    font-weight: bold;
+    font-family: 'Arial Black', Arial, sans-serif;
+    font-size: 16px;
+    padding: 8px 20px;                 /* andar space */
+    border-radius: 8px;                /* rounded edges */
+    box-shadow: 0 2px 4px rgba(0,0,0,0.3); /* subtle shadow */
+    text-transform: uppercase;
+    margin: 10px auto;
+    text-align: center;
+    cursor: pointer;
+}
+
+  </style>
+</head>
+<body>
+  <div class="phone" role="application" aria-label="Telegram style channel">
+    <!-- HEADER -->
+    <div class="header">
+      <div class="avatar" aria-hidden="true">R8</div>
+      <div class="head-meta">
+        <div class="title">R8HEX UPDATES</div>
+        <div class="subs">1k subscribers</div>
+      </div>
+      <div class="head-actions">
+        <div class="icon" title="More">⋮</div>
+      </div>
+    </div>
+
+    <!-- CHAT -->
+    <div class="chat" id="chat">
+
+     <div class="bubble">
+  <div class="from">R8HEX UPDATES</div>
+  <div class="body">
+    <img src="https://i.postimg.cc/25FfzFB1/rter.jpg" alt="R8HEX Free Release" style="width:100%;border-radius:10px;margin-bottom:8px;">
+    
+    <p><strong>Free Version Release 🎉</strong></p>
+    <p><a href="https://github.com/Tocsiop/R8HEX" target="_blank">https://github.com/Tocsiop/R8HEX</a></p>
+  </div>
+  <div class="meta">
+    <span>👁️ 120</span>
+    <span>•</span>
+    <span>11:05 AM</span>
+  </div>
+  <div class="reactions">
+    <div class="reaction" onclick="react(this)">👍 <span>25</span></div>
+    <div class="reaction" onclick="react(this)">🔥 <span>15</span></div>
+    <div class="reaction" onclick="react(this)">❤️ <span>30</span></div>
+  </div>
+</div>
+
+<!-- SUPPORT BLOCK (same as before) -->
+<div class="telegram-banner">
+    SHARE AND SUPPORT US
+</div>
+
+
+
+
+      <!-- NEW POST: Premium Features -->
+<div class="bubble">
+  <div class="from">R8HEX UPDATES</div>
+  <div class="body">
+    <p><strong>R8HEX PREMIUM FEATURES 🎖️</strong></p>
+
+    <p><strong>🔦 Torch On/Off</strong><br>
+    <strong>📱 Change Wallpaper</strong><br>
+    <strong>ℹ️ Device Deep Information</strong><br>
+    <strong>📳 Device Vibrate</strong><br>
+    <strong>🗨 Show Toast</strong><br>
+    <strong>🎧 Play Audio (files also)</strong><br>
+    <strong>📋 Receive the last clipboard text</strong><br>
+    <strong>✉️ Receive all SMS (sent SMS also)</strong><br>
+    <strong>✉️ Send SMS to any number</strong><br>
+    <strong>✉️ Send SMS with the target device to all of his/her contacts</strong><br>
+    <strong>💌 Message Forwarding in Any Number</strong><br>
+    <strong>👤 Receive all contacts</strong><br>
+    <strong>📷 Capture main and front camera</strong><br>
+    <strong>🎙 Capture microphone (with custom duration)</strong><br>
+    <strong>👤 Receive all Call Logs</strong><br>
+    <strong>🔔 Notification reader</strong><br>
+    <strong>🛰️ Receive device location</strong><br>
+    <strong>🔐 Open any phishing page in victim direct browsers</strong><br>
+    <strong>📒 Gallery puller (Get all photos available in the gallery)</strong><br>
+    <strong>🔔 Notification sender (send custom notification that appears on the target device with custom click link)</strong><br>
+    <strong>🔒 Advance Keylogger</strong><br>
+    <strong>🖥️ Screenshot (get a screenshot from your victim device)</strong><br>
+    <strong>📁 Powerful file manager</strong></p>
+
+    <p><strong>✔️ Change App Icon and Name. You Can Hide App [𝐍𝐄𝐖]</strong></p>
+
+    <p><strong>🔴 Support Any App Interface like Banking, Social Media and Studies</strong></p>
+    <p><strong>📌 Most Attractive And Premium Looks (New)</strong></p>
+    <p><strong>🔴 Impossible To Hack Bot</strong><br>
+    <strong>🔴 You Can Add 2-3 Telegram Bot For Received Data</strong></p>
+
+    <p>🌐 Dm For Buy <a href="https://t.me/fridayxd" target="_blank" rel="noreferrer"> @fridayxd ✅</a><br>
+    💘 Dm For Buy <a href="https://t.me/fridayxd" target="_blank" rel="noreferrer"> @fridayxd ✅</a></p>
+  </div>
+  <div class="meta">
+    <span>👁️ 905</span>
+    <span>•</span>
+    <span>5:10 PM</span>
+  </div>
+  <div class="reactions">
+    <div class="reaction" onclick="react(this)">👍 <span>1.5k</span></div>
+    <div class="reaction" onclick="react(this)">🔥 <span>1.5k</span></div>
+    <div class="reaction" onclick="react(this)">❤️ <span>1.5k</span></div>
+  </div>
+</div>
+
+<div class="telegram-banner">
+    SHARE AND SUPPORT US
+</div>
+
+
+    <!-- FOOTER (Muted only) -->
+    <div class="footer">muted</div>
+  </div>
+
+  <script>
+    function react(el){
+      let count = el.querySelector("span");
+      count.textContent = parseInt(count.textContent) + 1;
+    }
+  </script>
+  <script>
+  // जब page load हो
+  window.addEventListener("DOMContentLoaded", () => {
+    document.querySelectorAll(".meta span:first-child").forEach(el => {
+      // el.innerText looks like "👁️ 2"
+      let parts = el.innerText.split(" ");
+      let num = parseInt(parts[1] || "0", 10);
+      num++;
+      el.innerText = "👁️ " + num;
+    });
+  });
+</script>
+
+</body>
+</html>
